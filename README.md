@@ -6,5 +6,5 @@
 
 **Colaboradores:**
 - Eric Mogica
-- Eren
+- Eren Usta
 - Stephany Cruz 
