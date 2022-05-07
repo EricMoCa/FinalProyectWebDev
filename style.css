@@ -32,6 +32,14 @@
     margin: 10 px;
 }
 
+/* ====================       SERVICES LIST      ============================= */
+.list-group li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/* =========================================================================== */
+
 /* ====================       ABOUT US      ============================= */
 /*     <a href="#" > <button class="button" style="vertical-align:middle"><span> Text </span></button></a>       */
 
